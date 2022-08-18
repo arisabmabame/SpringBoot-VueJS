@@ -1,0 +1,25 @@
+{
+    "categories":[
+        {
+        "id":"Ari",
+        "name":"Indonesia",
+        "alamat" :"jl Lampiri"
+        },
+        {
+        "id":"Sabma",
+        "name":"Singapura",
+        "alamat" :"jl Lampiri"
+        },
+        {
+        "id":"Bame",
+        "name":"Italy",
+        "alamat" :"jl Lampiri"
+        },
+        {
+        "id":"Hasugian",
+        "name":"Kanada",
+        "alamat" :"jl Lampiri"
+        }
+        
+    ]
+  }
